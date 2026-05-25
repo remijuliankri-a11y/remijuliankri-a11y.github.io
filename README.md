@@ -35,8 +35,9 @@ Exam project in Data Analytics with Generative AI and Large Language Models.
 ---
 
 ### Big Data: NYC Taxi Analysis with PySpark
-Exam project in Big Data Systems.
+**[View code →](https://github.com/remijuliankri-a11y/nyc-taxi-pyspark-analysis)**
 
+Exam project in Big Data Systems.
 - Analyzed tens of millions of rows of NYC taxi data using PySpark
 - Feature engineering and ML models via Spark ML (Gradient Boosted Trees, Random Forest)
 - Hands-on experience with scaling, memory management, and lazy evaluation
